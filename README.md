@@ -1,8 +1,5 @@
 # 703_Hackers_HackTheTank
 
-![image](https://user-images.githubusercontent.com/82694741/227706642-6a2cf047-d023-4774-a7d4-417077e7fd15.png)
-
-
 ![image](https://user-images.githubusercontent.com/82694741/227706439-33470746-a70a-4d00-a52a-2276d9d1efd4.png)
 
 Website: https://hobbyindia.store/

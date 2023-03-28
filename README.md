@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/82694741/227706439-33470746-a70a-4d00-a52a-2276d9d1efd4.png)
 
-Website: https://hobbyindia.store/
+Website: https://hobbyindia.store//
 
 Title: Building a Modern, 
 Two-Dimensional Website Builder for Multi-Vendor Marketplaces
